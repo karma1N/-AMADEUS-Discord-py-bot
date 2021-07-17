@@ -1,0 +1,98 @@
+[
+    {
+        "role_name": "red",
+        "role_id": 839721177491439646,
+        "emoji": "\u2764\ufe0f",
+        "message_id": 839721810546655272
+    },
+    {
+        "role_name": "green",
+        "role_id": 839721416190591036,
+        "emoji": "\ud83d\udc9a",
+        "message_id": 839721909356986378
+    },
+    {
+        "role_name": "blue",
+        "role_id": 839721991577534464,
+        "emoji": "\ud83d\udc99",
+        "message_id": 839722149051891763
+    },
+    {
+        "role_name": "yellow",
+        "role_id": 839721311998836826,
+        "emoji": "\ud83d\udc9b",
+        "message_id": 839722208133382145
+    },
+    {
+        "role_name": "orange",
+        "role_id": 839721347915579412,
+        "emoji": "\ud83e\udde1",
+        "message_id": 839722376455389205
+    },
+    {
+        "role_name": "purple",
+        "role_id": 839721575771275276,
+        "emoji": "\ud83d\udc9c",
+        "message_id": 839722470071992341
+    },
+    {
+        "role_name": "pink",
+        "role_id": 839721483059200050,
+        "emoji": "<:pink:826668051562102784>",
+        "message_id": 839722597108809779
+    },
+    {
+        "role_name": "black",
+        "role_id": 839721214585864202,
+        "emoji": "\ud83d\udda4",
+        "message_id": 839722696072888331
+    },
+    {
+        "role_name": "white",
+        "role_id": 839721276485926933,
+        "emoji": "<:white:826698904002625597>",
+        "message_id": 839722771297992714
+    },
+    {
+        "role_name": "cyan",
+        "role_id": 826697840201826345,
+        "emoji": "<:cyan:826668051612041226>",
+        "message_id": 839722869763997697
+    },
+    {
+        "role_name": "pink",
+        "role_id": 839721483059200050,
+        "emoji": "<:pink:826668051562102784>",
+        "message_id": 848746788705796176
+    },
+    {
+        "role_name": "pink",
+        "role_id": 839721483059200050,
+        "emoji": "\ud83e\udde0",
+        "message_id": 848747119422865449
+    },
+    {
+        "role_name": "cyan",
+        "role_id": 826697840201826345,
+        "emoji": "\ud83d\udc33",
+        "message_id": 852753049906053130
+    },
+    {
+        "role_name": "white",
+        "role_id": 839721276485926933,
+        "emoji": "\ud83e\udd0d",
+        "message_id": 852753175748280370
+    },
+    {
+        "role_name": "Fucsia",
+        "role_id": 852755189567324210,
+        "emoji": "\ud83e\ude71",
+        "message_id": 852755654489669632
+    },
+    {
+        "role_name": "#everyone",
+        "role_id": 839719525321539597,
+        "emoji": "\ud83d\udc4d",
+        "message_id": 853425761577730050
+    }
+]

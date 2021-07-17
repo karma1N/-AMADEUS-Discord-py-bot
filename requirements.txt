@@ -1,0 +1,10 @@
+discord~=1.7.3
+PyNaCl
+youtube-dl
+wikipedia-api
+google
+requests~=2.26.0
+kitsu-wrapper
+twitchAPI~=2.3.2
+discord-together
+aiofiles
